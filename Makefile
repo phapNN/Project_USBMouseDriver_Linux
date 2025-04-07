@@ -1,4 +1,4 @@
-obj-m += usb_mouse.o  # Định nghĩa module
+obj-m += usb_mouse.o  
 
 KDIR := /lib/modules/$(shell uname -r)/build
 PWD := $(shell pwd)

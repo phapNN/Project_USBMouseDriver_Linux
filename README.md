@@ -5,4 +5,4 @@ In this project: We write a linux driver for mouse, read parameters such as: x, 
 
 Thank you for your support.
 
-Code team: Pham Ngoc Hieu Nguyen Nhat Phap HCMUTE Instructor: Dr. Bui Ha Duc
+Code team: Nguyen Nhat Phap Pham Ngoc Hieu  HCMUTE Instructor: Dr. Bui Ha Duc
